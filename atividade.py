@@ -1,0 +1,1 @@
+# Gere uma função que mostre a soma e o produto de dois números
